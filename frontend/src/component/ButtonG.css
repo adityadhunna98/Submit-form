@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    /* align-items: */
+    justify-content: center;
+    
+    color: rgba(0, 0, 0, 0.85);  
+}
+h2{
+    margin-top: 30%;
+    text-align: center;
+}
+.buttong{
+    margin: 1%;
+    border: 1 solid black;
+}
+
